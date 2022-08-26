@@ -1,0 +1,114 @@
+.nave1 {
+    background-color: rgb(40, 133, 102);
+    padding-top: 14px;
+    padding-bottom: 55px;
+
+}
+
+.tb-1 {
+    float: right;
+    padding: 14px;
+}
+
+.btn-30 {
+    background-color: rgb(212, 90, 2);
+    color: aliceblue;
+    border-radius: 4px;
+    font-size: 17px;
+    padding: 5px 14px;
+
+
+}
+
+.total-div {
+    margin-top: 36px;
+    display: flex;
+    text-align: center;
+    border: 2px solid rgb(3, 111, 211);
+    border-radius: 3px;
+    justify-items: center;
+    justify-content: space-between;
+    width: 76%;
+    margin-left: 163px;
+}
+
+.hd-1 {
+    text-align: center;
+    margin-top: 132px;
+    margin-right: 85px;
+}
+
+.hd-0 {
+    margin-left: 1px;
+}
+
+.total-card {
+    margin-top: 39px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 10px;
+
+}
+
+.png-1 {
+    border: 3px solid rgb(9, 145, 199);
+    border-radius: 5px;
+    box-shadow: 4px 12px 2px 1px rgba(0, 0, 0, 0.637);
+}
+
+.seo-card {
+    display: flex;
+    margin-top: 18px;
+    margin-bottom: 50px;
+}
+
+.card-1 {
+    border: 3px solid rgb(22, 106, 175);
+}
+
+.card-3 {
+    border: 3px solid rgb(22, 106, 175);
+    display: flex;
+    background-color: aquamarine;
+
+
+}
+
+.ringidflex {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 70px;
+    justify-items: center;
+    margin-left: 150px;
+    padding: 30px;
+}
+
+.ringid1 {
+    color: rgb(0, 255, 21);
+    background-color: brown;
+}
+
+.ring2 {
+    float: right;
+}
+
+.buyall {
+    background-color: coral;
+    padding: 7px 16px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    margin-left: 590px;
+    border-radius: 4px;
+    margin-top: 14px;
+
+}
+
+.footer10 {
+    background-color: rgb(4, 86, 88);
+    padding: 26px;
+    color: aliceblue;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 19px;
+    font-size: 24px;
+}
